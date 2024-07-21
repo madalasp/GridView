@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shibaprasd\\source\\repos\\GridView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F7AB9-4F90-4463-B979-84DECEBDD5B6}|GridView\\GridView.csproj|c:\\users\\shibaprasd\\source\\repos\\gridview\\gridview\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B8F7AB9-4F90-4463-B979-84DECEBDD5B6}|GridView\\GridView.csproj|solutionrelative:gridview\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8F7AB9-4F90-4463-B979-84DECEBDD5B6}|GridView\\GridView.csproj|c:\\users\\shibaprasd\\source\\repos\\gridview\\gridview\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B8F7AB9-4F90-4463-B979-84DECEBDD5B6}|GridView\\GridView.csproj|solutionrelative:gridview\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\shibaprasd\\source\\repos\\GridView\\GridView\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "GridView\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\shibaprasd\\source\\repos\\GridView\\GridView\\WebForm1.aspx.cs",
+              "RelativeToolTip": "GridView\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswFMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T12:07:10.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\shibaprasd\\source\\repos\\GridView\\GridView\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "GridView\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\shibaprasd\\source\\repos\\GridView\\GridView\\WebForm1.aspx",
+              "RelativeToolTip": "GridView\\WebForm1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-21T11:17:44.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
